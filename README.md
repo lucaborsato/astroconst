@@ -10,3 +10,7 @@ Astronomical, Physical, and other useful constants.
 ## Linter
 
 `gometalinter ./...`
+
+## Commits emoji
+
+https://github.com/dannyfritz/commit-message-emoji
