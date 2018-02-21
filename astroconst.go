@@ -11,7 +11,7 @@ const (
 	// Pi is a constant representing the value of π (exported vars/const/methods should have a comment in the form // NAME ...)
 	Pi float64 = math.Pi
 	// TwoPi is a constant representing the value of 2π
-	TwoPi   float64 = 2.0 * Pi
+	TwoPi float64 = 2.0 * Pi
 	// Deg2Rad is the conversion factor from degrees to radiants: RAD = DEG * Deg2Rad
 	Deg2Rad float64 = Pi / 180.0
 	// Rad2Deg is the conversion factor from radiants to degrees: DEG = RAD * Deg2Rad
@@ -65,7 +65,7 @@ const (
 	// MVen is the Venus mass in kg
 	MVen = MSun * MVen2Sun //  Venus mass in kg
 	//MEar ...
-	MEar = 5.9722e24       // Earth mass in kg
+	MEar = 5.9722e24 // Earth mass in kg
 	//MMar ...
 	MMar = MSun * MMar2Sun //  Mars mass in kg
 	//MJup ...

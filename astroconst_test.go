@@ -3,9 +3,10 @@ package astroconst_test
 import (
 	"testing"
 
+	"fmt"
+
 	"github.com/brunetto/astroconst"
 	"github.com/stretchr/testify/assert"
-	"fmt"
 )
 
 func Test_Import(t *testing.T) {
